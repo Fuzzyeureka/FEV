@@ -43,5 +43,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Inspiration, code snippets, etc.
 * [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [Packwiz](https://github.com/packwiz/packwiz)
 * [Fabulously optimized README](https://github.com/Fabulously-Optimized/fabulously-optimized/)
