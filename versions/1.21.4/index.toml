@@ -54,7 +54,7 @@ hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "79cc913a736dfdf741d35bbe3b2ba75ecde5385ab812fd87381836d8f831689f"
+hash = "dfb8040ea069db9808898e64c0ef3dfe495015a1864937712380adc8a57af45c"
 
 [[files]]
 file = "config/betterpingdisplay.json"
@@ -122,7 +122,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "74e58326ea2fabc8a1acd8bf089537a011f23f7e680c8ddfe74af9d113ce24ec"
+hash = "c4fd844a6b78d9fdc6bcd7037e2d31d1aadf6522a7dbe4e303d23894ff75bb7d"
 
 [[files]]
 file = "config/fabrishot.properties"
@@ -206,7 +206,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7e2bef7276cb64c91addd95759a2ca085dcee70842003e55f71f9a9254ed05db"
+hash = "6452e21663e48d897f0dcb1f06088dacdd54617ec8bb645a3d8bb141bea72315"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -342,7 +342,7 @@ hash = "12672919c7637eddf10cae6eb1a5ee8496e70520518168e96cdd36a0b8715193"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
+hash = "64c9673bfbe7dca13247f90061aecb354bb65f0de653c6cb7ffc4bd5ca71db75"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -446,11 +446,11 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+hash = "535d14d37a2ff64c8b0bf9ead6f23eb10e4fa02c1825eefe2a92a55ef06da277"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -973,37 +973,50 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
-file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
-hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
+file = "options.txt"
+hash = "2cdcc509c8e56582024d1c978f0f9446c64be36f1c3b4c4fa4e6c890f31477b9"
 
 [[files]]
-file = "resourcepacks/Fancy Crops v1.1.zip"
-hash = "00bcc644350e2d5c5fdc0482fd7e66489c718c5e3d6ac823fd00e0563c134450"
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
+metafile = true
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.9.3.zip"
-hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Recolourful Containers 2.0 (1.19.4+).zip"
-hash = "e827ac5e1a3a0e077eb52c7d90dbbefff735630103583252fb51a04028e77a3c"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Simple Grass Flowers v1.9.4.zip"
-hash = "0802943d06fc38827a9feeb09f7b84e5fbd28608dd1096d259860fe0e3275641"
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "519f97a9d1432364010760ea5a942b5d9d8e83be36119315bcef67c003af8719"
+metafile = true
 
 [[files]]
-file = "resourcepacks/enchant icons 1.21 v1.3.zip"
-hash = "78cbfc8aa6994e943cf5247906d1160caff00d7e41430225a517c4a5ba731e24"
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
+metafile = true
 
 [[files]]
-file = "resourcepacks/qrafty's-capitalized-font.zip"
-hash = "2ab4a9f88b8b98c71467fbf1a642b76233c6868452dbc76d3f8da37d0a484700"
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.02.2.zip"
-hash = "a9498205dcccb5a0f4480d5829d661efa13bd3897b44a4a288d24061f39cbf61"
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
-hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+metafile = true
