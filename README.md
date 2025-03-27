@@ -27,11 +27,10 @@ See table for more info
 
 | Launcher                                      |    Install    |     Update     |   Add mods    |
 | --------------------------------------------- | :-----------: | :-------------: | :-----------: |
-| CurseForge App                  |   ⚠️&nbsp;No data   |  ⚠️&nbsp;No data  |     ⚠️&nbsp;No data      |
 | Modrinth App              |   ⚠️&nbsp;No data   |  ⚠️&nbsp;No data  |     ⚠️&nbsp;No data      |
-| Prism Launcher               |   ⚠️&nbsp;No data   |  ⚠️&nbsp;No data  |   ⚠️&nbsp;No data   |
-| MultiMC                    |  ⚠️&nbsp;No data  | ⚠️&nbsp;No data |   ⚠️&nbsp;No data   |
-| Minecraft Launcher |  ⚠️&nbsp;No data  | ⚠️&nbsp;No data |   ⚠️&nbsp;No data   |
+| Prism Launcher               |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |
+| MultiMC                    |  ✅&nbsp;Easy  | ❌&nbsp;Manual |   ❌&nbsp;Manual   |
+| Minecraft Launcher |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ❌&nbsp;Bad   |
 ✅&nbsp;Easy ❌&nbsp;Manual
 
 ## License
