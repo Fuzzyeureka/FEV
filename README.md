@@ -4,7 +4,7 @@
 
 # Erik's cool modpack
 
-A modpack designed to enhance your experience
+A modpack designed to enhance your experience without adding too much stuff
 </div>
 
 ## Description
@@ -27,7 +27,7 @@ See table for more info
 
 | Launcher                                      |    Install    |     Update     |   Add mods    |
 | --------------------------------------------- | :-----------: | :-------------: | :-----------: |
-| Modrinth App              |   ⚠️&nbsp;No data   |  ⚠️&nbsp;No data  |     ⚠️&nbsp;No data      |
+| Modrinth App              |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Easy      |
 | Prism Launcher               |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |
 | MultiMC                    |  ✅&nbsp;Easy  | ❌&nbsp;Manual |   ❌&nbsp;Manual   |
 | Minecraft Launcher |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ❌&nbsp;Bad   |
