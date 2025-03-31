@@ -938,11 +938,6 @@ hash = "146dbdc9a45f945693a356510b0ce7ef670ab1bbd73e7fe461cef41f33519c3c"
 metafile = true
 
 [[files]]
-file = "mods/wakes.pw.toml"
-hash = "73fe5c1874f70573c5ed64fd6b3a67eb57fac9287a8d4b7499790f7d48e5b364"
-metafile = true
-
-[[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "67c7380ca43fc7f9690c19006120febbaec29e611f743deb43de43eae25d93f4"
 metafile = true
