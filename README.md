@@ -27,8 +27,8 @@ See table for more info
 
 | Launcher                                      |    Install    |     Update     |   Add mods    |
 | --------------------------------------------- | :-----------: | :-------------: | :-----------: |
-| Modrinth App              |   ⚠️&nbsp;No data   |  ⚠️&nbsp;No data  |     ⚠️&nbsp;No data      |
-| Prism Launcher               |   ✅&nbsp;Easy   |  ⚠️&nbsp;No data  |   ✅&nbsp;Easy   |
+| Modrinth App              |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Easy      |
+| Prism Launcher               |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |
 | MultiMC                    |  ✅&nbsp;Easy  | ❌&nbsp;Manual |   ❌&nbsp;Manual   |
 | Minecraft Launcher |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ❌&nbsp;Bad   |
 ✅&nbsp;Easy ❌&nbsp;Manual
