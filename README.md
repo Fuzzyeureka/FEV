@@ -31,7 +31,6 @@ See table for more info
 | Prism Launcher               |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |
 | MultiMC                    |  ✅&nbsp;Easy  | ❌&nbsp;Manual |   ❌&nbsp;Manual   |
 | Minecraft Launcher |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ❌&nbsp;Bad   |
-✅&nbsp;Easy ❌&nbsp;Manual
 
 ## License
 
