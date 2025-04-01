@@ -668,11 +668,6 @@ hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
 metafile = true
 
 [[files]]
-file = "mods/highlighter.pw.toml"
-hash = "305a240342e80dc2a404063a01792c88929a6c74cf9fde91d327c61138b9339a"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "88a22df96806e32bfd1f80fbd4a94a885148d2372efa5a36c1e8635f06213780"
 metafile = true
@@ -695,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/item-borders.pw.toml"
 hash = "f5a4f42e05eab6037f975c108276f08952cfe422df9143c53efd58cddb04d0d2"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "afa740663ea5ef848c29dba50befe6f4ffe031661d2daeb4f436b5803f33d19a"
 metafile = true
 
 [[files]]
