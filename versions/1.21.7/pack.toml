@@ -1,0 +1,13 @@
+name = "Eriks-cool-modpack"
+author = "Erik"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "618d9cafcf1faa72fbf09ce10fe81ed86ebb3d79c5a13550015be0e900b5f206"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.7"

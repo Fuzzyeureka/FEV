@@ -13,6 +13,6 @@
   "enableSkullsItems": true,
   "skullVoxelSize": 1.1,
   "fastRender": true,
-  "compatibilityMode": false,
+  "compatibilityMode": true,
   "firstPersonPixelScaling": 1.1
 }

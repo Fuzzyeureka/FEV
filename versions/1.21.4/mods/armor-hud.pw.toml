@@ -1,13 +1,13 @@
 name = "Armor Hud"
-filename = "Armor_Hud-2.7-1.21.4.jar"
+filename = "Armor_Hud-3.0-1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AghHBZC5/versions/PWZ9TeVH/Armor_Hud-2.7-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/AghHBZC5/versions/rMjEkObU/Armor_Hud-3.0-1.21.4.jar"
 hash-format = "sha512"
-hash = "75031690a1f5372f0b3ccf8d9d45f8e4bd4c60a7421f24110ab49761a403db1d280da2f75733c84fbe35fb02efc07fb5b648a9b03210985074f6f67e43176443"
+hash = "fa6584b409c31291d8578771c6b5dffa3e09145f96bbff406c7ba8e9dd8659b54cec57287fa1456ec89c0cc24c68a3bef5193896b14b364546e344f414f11c6f"
 
 [update]
 [update.modrinth]
 mod-id = "AghHBZC5"
-version = "PWZ9TeVH"
+version = "rMjEkObU"

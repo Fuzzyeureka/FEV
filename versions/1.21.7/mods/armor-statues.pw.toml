@@ -1,0 +1,13 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v21.7.0-1.21.7-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/EMkSvyiP/ArmorStatues-v21.7.0-1.21.7-Fabric.jar"
+hash-format = "sha512"
+hash = "146d435d90f66380f154d0ef6d840c19e77068e55e33c2656df5d866d9d07aa42aba07cb75a51509a7b92fc484fb865c3d47580afae2e096d22dc1a44ead03d5"
+
+[update]
+[update.modrinth]
+mod-id = "bbGCtEvb"
+version = "EMkSvyiP"

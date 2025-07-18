@@ -1,13 +1,13 @@
 name = "Lighty"
-filename = "lighty-fabric-3.0.0-beta.8+1.21.5.jar"
+filename = "lighty-fabric-3.0.0-beta.9+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/SpE24ibp/lighty-fabric-3.0.0-beta.8%2B1.21.5.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/PXHpT2kC/lighty-fabric-3.0.0-beta.9%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "5fd114e36a355c748e86a72f9e0f9c4d96bfaf9581a3c505db4a843f1dfafdc896afbf3e088c6c35d14e9ea2bcb114871f3e91185132e1c4388688a0a8db0b9e"
+hash = "fd6cec14cc7067775aabaf310ecb40dfbf0ba85556ee77c63941dabe9616854faf565d8ae2cfba454c6e04e770c36311cfe97ce0d4c9cb2a0cc9cb99d0dfa019"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "SpE24ibp"
+version = "PXHpT2kC"
