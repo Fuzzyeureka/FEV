@@ -4,8 +4,8 @@
 
 A modpack designed to enhance your experience without adding too much stuff
 
-<a href="https://github.com/Fuzzyeureka/ECM">![Github](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/github_vector.svg)</a>
-<a href="https://modrinth.com/modpack/eriks-cool-modpack">![modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg)</a>
+<a href="https://github.com/Fuzzyeureka/FEV">![Github](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/github_vector.svg)</a>
+<a href="https://modrinth.com/modpack/fuzzys-enhanced-vanilla">![modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg)</a>
 ![fabric](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/supported/fabric_vector.svg)
 ![noforge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/unsupported/forge_vector.svg)
 </div>
