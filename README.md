@@ -1,8 +1,6 @@
 <div align="center">
-  
-![ecm](https://github.com/user-attachments/assets/461e336b-0f3a-49eb-a6aa-a9eb41a4ef07)
 
-# Erik's cool modpack
+# Fuzzy's Enhanced Vanilla
 
 A modpack designed to enhance your experience without adding too much stuff
 
