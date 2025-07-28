@@ -703,11 +703,6 @@ hash = "645ea593cef19402ffd9af1b779ad0069ca01fdbeb6534158f14e1e793ed7e5f"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
-metafile = true
-
-[[files]]
 file = "mods/silk.pw.toml"
 hash = "396e9a3e0c2a5019ceee1747b90dbb722c8784244fbf5cad072fb396b55eb336"
 metafile = true
