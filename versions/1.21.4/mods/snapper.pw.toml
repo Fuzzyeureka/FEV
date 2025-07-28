@@ -1,0 +1,13 @@
+name = "Snapper"
+filename = "snapper-1.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MZQyESDC/versions/SSLZqVVo/snapper-1.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "122a1cd1bb96c680ed3c2c2623ac06fcb3fdd942f94c4d1042dcb91d0eba64dc377ab8521f0f071163b61d0682b158bd43b1430f34c223a47747c02eb9c494c0"
+
+[update]
+[update.modrinth]
+mod-id = "MZQyESDC"
+version = "SSLZqVVo"

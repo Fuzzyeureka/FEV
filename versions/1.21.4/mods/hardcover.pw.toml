@@ -1,0 +1,13 @@
+name = "Hardcover"
+filename = "hardcover-5.0.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A41bVvas/versions/B9yqP1mB/hardcover-5.0.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "201eca48b9da8b4cff56cdf42e7ba8591cbe67ae9d0b60792f1f1ad509b6de3e203dd428204839334846ad0c05161a2fcb32f1b8f8c990ae63e43680e75a1b6c"
+
+[update]
+[update.modrinth]
+mod-id = "A41bVvas"
+version = "B9yqP1mB"

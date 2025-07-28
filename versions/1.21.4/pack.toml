@@ -1,12 +1,12 @@
-name = "Eriks-cool-modpack"
-author = "Erik"
-version = "1.0.0"
+name = "Fuzzys-enhanced-vanilla"
+author = "Fuzzyeureka"
+version = "1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "219920fd4b2f1f6433a7a71da15c6161ba004b5b33691c75806d3f83db3274b9"
+hash = "355881175cfdc33b2cc4dc888aa4b6be54e7403a35f87de25b7a400aaf98718f"
 
 [versions]
 fabric = "0.16.14"

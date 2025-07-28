@@ -1,0 +1,14 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": -1,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "1860656008",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "fuzzyeureka"
+    }
+  ]
+}

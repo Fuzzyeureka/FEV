@@ -1,0 +1,16 @@
+{
+    // Whether to copy screenshots to clipboard when taken.
+    "copyTakenScreenshot": false,
+    // Whether to show Snapper button on title screen.
+    "showSnapperTitleScreen": true,
+    // Whether to show Snapper button in game menu.
+    "showSnapperGameMenu": true,
+    // Whether to show screenshot menu with grid or list.
+    "viewMode": "list",
+    // Whether the terms of AxolotlClient have been accepted.
+    "termsAccepted": "unset",
+    // Whether to use a custom screenshot folder instead of Minecraft's default
+    "useCustomScreenshotFolder": false,
+    // What folder to use if custom screenshot folders are enabled.
+    "customScreenshotFolder": "C:\\Users\\Fuzzyeureka\\AppData\\Roaming\\.snapper"
+}

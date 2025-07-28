@@ -10,7 +10,7 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/armor_hud.json"
-hash = "730913e17a00e8aa704919b19340368aff16f74f521dd14d03a9fdf315df0d15"
+hash = "0da28d176a46d2408449c79a3655d260e7e063fb8833fdf6b4c89ac3af046b61"
 
 [[files]]
 file = "config/armorstatues-client.toml"
@@ -19,6 +19,10 @@ hash = "feb9cd0bd4ddfb3773e3983605ceeb92f66f9b7962f546e037c1befaa981a05d"
 [[files]]
 file = "config/badoptimizations.txt"
 hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "9652d8093a5e5bb22217e20f0d6548eef3d8bc3777496987efba60660acec6ee"
 
 [[files]]
 file = "config/betterpingdisplay.json"
@@ -37,6 +41,22 @@ file = "config/chat_heads.json5"
 hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
 
 [[files]]
+file = "config/clientsort-server.json"
+hash = "3af99a03a599be22172e594e0d15e7deca56b52a04af98369c98a4d7398ed10f"
+
+[[files]]
+file = "config/clientsort.json"
+hash = "56cc319921efa064c0a52e08706aa14a8dfb2e49c8aed72b35e3f6362d207fef"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/continuity.json"
+hash = "cabe00d1fd6091202d1180bd86d31bca69a5999a43317c3a77aea94da4f76016"
+
+[[files]]
 file = "config/controlify.json"
 hash = "bf7e589068aff0ec993a3fc021769b82fefa48913ec02e7ba9495994edfe057f"
 
@@ -50,7 +70,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "edec02a1adde6f2e7532225b455281b7376f367c760e9e937f178bb9f9124a5b"
+hash = "32ec51eaa11098da0210e92c32399778ed68dad08be455957086629545822469"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -70,7 +90,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d852676f91ed5eeaedecdbe6a84680b194a65f76240465d369158f2e9a7e6b67"
+hash = "34092b063cc50fbccfd8fe687e45258f690e3940253a4c62afa308640409b6e9"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -81,8 +101,20 @@ file = "config/forgeconfigapiport.toml"
 hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
+file = "config/fsit.restrictions.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/fsit.yml"
+hash = "95cf5d5604fa2bc17f4cbc266b187876be14e96a675b10212119c19bce31d7d7"
+
+[[files]]
 file = "config/gammautils.json"
 hash = "d5fe298afbe2ca1fa686b6eb097e89b338f4f72580ab45b6b0d88cc332918de9"
+
+[[files]]
+file = "config/held-item-info.json"
+hash = "e5e6c08e1c023207d7b97369f2a2a6246a556ff1c790dea5557b295860f0c136"
 
 [[files]]
 file = "config/highlighter.toml"
@@ -93,16 +125,12 @@ file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
-
-[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4167fb00f1b4c0cd14c70a38f5b9d1372147474e2b6018725a06500e4cc11949"
+hash = "f544981ee7426f0394490b2706e127620ff58525b63cb0fa2bc0141426f54052"
 
 [[files]]
 file = "config/itemborders.toml"
@@ -111,6 +139,10 @@ hash = "530b8b818fb7efbe0ed8fbc8dbaaa0861c75853d99368bf07ed7a490a6cbf1d0"
 [[files]]
 file = "config/iteminteractions-client.toml"
 hash = "4f0a6f90652668b77a29f2629150f67d155ad3a65d7e344046b3494f6cd191a2"
+
+[[files]]
+file = "config/iteminteractions-server.toml"
+hash = "36b5a856aa405c89ef00a366ed8d8c5acae1e38fe58ee4788b5e007a32201436"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -189,6 +221,14 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "6a92b58ea5b00aef77093cca3580fd5f237422e6c98dda58e384ec9c9d143f6b"
 
 [[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "366e4ecc436776ae1031107b235a524a040e75c276de3531d7298351fdd0c8c5"
+
+[[files]]
+file = "config/raised.json"
+hash = "c77fc9ce57b7063cacc7b4b4ac37cc6481cc359dada85f2f570ab2e684853a7f"
+
+[[files]]
 file = "config/resourcify.json"
 hash = "e58371e7d636e557efde9fecf278417fd1b5290f025fe79564bc57030eca1566"
 
@@ -205,12 +245,32 @@ file = "config/skinlayers.json"
 hash = "7dcd4a9396f676a60ee72eac4ac40867ce9609875bdab5fbe2323cbf1e09f388"
 
 [[files]]
+file = "config/skinshuffle/config.json"
+hash = "662c8542ea661fc5321a22e99df6dafd0d6055ed0416a3fc767df130a9953a52"
+
+[[files]]
+file = "config/skinshuffle/presets.json"
+hash = "0a302019e9484586952967cab5c2067e7aef3a9bc999cc53c19c7eb554735823"
+
+[[files]]
+file = "config/skinshuffle/skin-caches.json"
+hash = "72aa94521cda5c1bc7d5426990e9a809290ce285f652c3df5137c6111eeb4338"
+
+[[files]]
+file = "config/skinshuffle/skins/1860656008.png"
+hash = "a2de672e8eae0826773fd0ef966aa8b45132d1e2b5f45a6444250d7e3761f7bf"
+
+[[files]]
 file = "config/smoothscroll.json"
 hash = "12672919c7637eddf10cae6eb1a5ee8496e70520518168e96cdd36a0b8715193"
 
 [[files]]
+file = "config/snapper.json"
+hash = "fa786eba96e1d78da9473e475bc96928261ef8ac96cc907abc9b413077ff21d8"
+
+[[files]]
 file = "config/sodium-extra-options.json"
-hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
+hash = "64c9673bfbe7dca13247f90061aecb354bb65f0de653c6cb7ffc4bd5ca71db75"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -218,7 +278,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "f894091e70552d4a88bfeb4db571a5b8db5cb99747d82809c06e1baa2bcce656"
+hash = "8b0d232c9a13bc5da8213ac377e72698e929d672f37d05a641e6df97f6ad7ab9"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -328,6 +388,16 @@ hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "e1e796464a526619861e47a98d9948fd8c7acbdfca549f59940044796b0dcacf"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "949fe1cac4639ca70aec85126f888b281bbc4582fe796b5cff0d9408aedbe2f7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "3515f97cf882fd519592b1bbe61a27c32ee6d678e7a088af5078538a1336a774"
 metafile = true
@@ -335,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "3494fc01775377548c432ea4a111dcdcedaa67c4ed3e5aaea3e99c98e1bcc2d0"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c650281609691743f9171291b526e0cae14b5019c0836b4bb60371fc1026e45d"
 metafile = true
 
 [[files]]
@@ -398,11 +473,6 @@ hash = "2b703a908a0116645f7c4fc8272b572ba706a8f2201647f6bc071c2154b2371b"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "a6d91e834da9065f97c00689e274d64c4afe87b1296f7d85f5f1ba226a7ee3d0"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
@@ -428,8 +498,23 @@ hash = "bb7f9b806b59200addb38bb67106a5e5ccebd44f350bf65e9d821b37719678a5"
 metafile = true
 
 [[files]]
+file = "mods/fsit.pw.toml"
+hash = "530c7066dfd3338b431d248f1fec9f24bee2a19d632b6dd0072df93af79c4cd3"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
+metafile = true
+
+[[files]]
+file = "mods/hardcover.pw.toml"
+hash = "e15a6467e310a7e87942e558cd64ab9f74d67a281dc832284f460a105a390ac2"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "25d8b382e17472cec7236a07182c693e4d01525af7cb668944582a85abfac8a1"
 metafile = true
 
 [[files]]
@@ -440,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e726cb4e05234381e07fe371f118a4cff7a65c7898786136e50165effa42d6fa"
 metafile = true
 
 [[files]]
@@ -544,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "b8774ba51965cd906594d9cba23bfc09e894ecaf77376fd1640c694c71410fbd"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
 
 [[files]]
@@ -593,6 +673,11 @@ hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "489b02c124486db11ef67bb2f928a4041d9e3c77daf903d1ecbd886f9a037130"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a96520a008818ade2b78b9c5dd285ce08a25a5ba988ee22a3e6e49f4b02f34aa"
 metafile = true
@@ -618,13 +703,28 @@ hash = "645ea593cef19402ffd9af1b779ad0069ca01fdbeb6534158f14e1e793ed7e5f"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "396e9a3e0c2a5019ceee1747b90dbb722c8784244fbf5cad072fb396b55eb336"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "611e7356de5165e6834c6bf71e1a2405980759602ce61fe82c287bbf62a20cd4"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "e7feb0f8fc119fe04cf3576e850f2690a7dccea63b793edefe42b12b5bbc2f4a"
+metafile = true
+
+[[files]]
+file = "mods/snapper.pw.toml"
+hash = "1f5ead253a681d914ae594f25de945c2ec4ad64963edf6a9a948cd7220390cc2"
 metafile = true
 
 [[files]]
@@ -635,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "73525c41e7f695f8634f1ac1765217c535f5014343f780e6fe00a4bcc4603063"
 metafile = true
 
 [[files]]
@@ -679,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5149b951dd7f47992bebf5f6ed16995946d95b6ca1ae7731cdc1050306e32f1f"
+hash = "c619f5b826ba75a5e3a35f40efdd94f99687afb665eabe09592f57beb6a159b4"
 
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
@@ -697,13 +802,13 @@ hash = "145443af878564465b5e865c371974d88555358d25ed6cded7735763d0815ecf"
 metafile = true
 
 [[files]]
-file = "resourcepacks/qraftys-capitalized-font.pw.toml"
-hash = "3e56e0119bd64fcff895f2ab53d3870bbb1c98928df0a2b931a74bab17b83776"
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ae3d6966d6ae701ea2615a87838536942cb6d7eba690ae33720a82850315d27"
 metafile = true
 
 [[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "ef8c4aee3cb0c28e703b1d78904de1abbc1babf245308faf3ff4dcc9e283e157"
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "3e56e0119bd64fcff895f2ab53d3870bbb1c98928df0a2b931a74bab17b83776"
 metafile = true
 
 [[files]]
