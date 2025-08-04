@@ -1,0 +1,16 @@
+name: Mod removal
+description: Suggest a mod to be removed
+labels: mod, remove
+body:
+- type: textarea
+  attributes:
+    label: Why shouldn't it be in the modpack
+  validations:
+      required: true
+
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Is there anything else you'd like to add?
+  validations:
+    required: false
