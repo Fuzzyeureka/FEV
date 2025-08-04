@@ -1,0 +1,28 @@
+name: Mod request
+description: Suggest a new mod to be added
+labels: mod
+body:
+- type: input
+  attributes:
+    label: Mod link
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: What it does
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you'd like to add?
+  validations:
+    required: false
