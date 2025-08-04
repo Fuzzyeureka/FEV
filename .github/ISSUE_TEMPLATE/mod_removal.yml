@@ -2,6 +2,12 @@ name: Mod removal
 description: Suggest a mod to be removed
 labels: mod, remove
 body:
+- type: input
+  attributes:
+    label: Mod name
+  validations:
+    required: true
+  
 - type: textarea
   attributes:
     label: Why shouldn't it be in the modpack
