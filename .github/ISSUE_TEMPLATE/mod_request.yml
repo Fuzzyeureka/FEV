@@ -4,7 +4,7 @@ labels: mod
 body:
 - type: input
   attributes:
-    label: Mod link
+    label: Mod name
   validations:
     required: true
 
