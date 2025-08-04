@@ -36,15 +36,6 @@
 			"enabled": true
 		}, 
 		{
-			"name": "miscright",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"lines": {
-				"misc_right": true
-			},
-			"enabled": true
-		}, 
-		{
 			"empty_lines": 1,
 			"name": "empty",
 			"lines": {
@@ -93,27 +84,10 @@
 			"color_low": 16733525
 		}, 
 		{
-			"name": "graphics",
-			"name_color": 16755200,
-			"value_color": 5636095,
+			"empty_lines": 1,
+			"name": "empty",
 			"lines": {
-				"shader": true,
-				"render_distance": true,
-				"graphics": true,
-				"clouds": true,
-				"biome_blend_radius": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "server",
-			"name_color": 11184810,
-			"value_color": 16777045,
-			"lines": {
-				"server_tick": true,
-				"packets_sent": true,
-				"packets_received": true,
-				"tick_manager_status": true
+				"nothing": true
 			},
 			"enabled": true
 		}, 
@@ -135,25 +109,11 @@
 			"enabled": true
 		}, 
 		{
-			"name": "chunks",
-			"chunks_disabled_color": 16733525,
-			"name_color": 43775,
-			"value_color": 16777045,
-			"total_chunks_color": 16755200,
+			"empty_lines": 1,
+			"name": "empty",
 			"lines": {
-				"chunk_file": true,
-				"available_buffers": true,
-				"loaded_chunks_server": true,
-				"forceloaded_chunks": true,
-				"chunk_culling": true,
-				"pending_uploads": true,
-				"pending_chunks": true,
-				"loaded_chunks": true,
-				"spawn_chunks": true,
-				"client_chunk_cache": true,
-				"chunk_sections": true
+				"nothing": true
 			},
-			"chunks_enabled_color": 5635925,
 			"enabled": true
 		}, 
 		{
@@ -173,68 +133,6 @@
 				"highest_block": true,
 				"highest_block_server": true,
 				"light_server": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "entity",
-			"name_color": 16733525,
-			"value_color": 16777045,
-			"total_entities_color": 16755200,
-			"lines": {
-				"entities": true,
-				"water_creature": true,
-				"underground_water_creature": true,
-				"ambient": true,
-				"particles": true,
-				"axolotls": true,
-				"creature": true,
-				"water_ambient": true,
-				"monster": true,
-				"misc": true
-			},
-			"enabled": true
-		}, 
-		{
-			"maximum_color": 43690,
-			"name": "sound",
-			"name_color": 16755200,
-			"value_color": 5636095,
-			"lines": {
-				"ambient_sounds": true,
-				"sounds": true,
-				"mood": true
-			},
-			"enabled": true
-		}, 
-		{
-			"enabled_color": 5635925,
-			"name": "help",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"disabled_color": 16733525,
-			"lines": {
-				"help": true,
-				"fps_tps_new": true,
-				"ping": true,
-				"pie_graph_new": true
-			},
-			"enabled": true
-		}, 
-		{
-			"empty_lines": 1,
-			"name": "empty",
-			"lines": {
-				"nothing": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "miscleft",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"lines": {
-				"misc_left": true
 			},
 			"enabled": true
 		}
