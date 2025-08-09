@@ -1,13 +1,16 @@
-name = "Particular ✨"
-filename = "particular-1.1.1+1.21.4.jar"
-side = "client"
+filename = 'particular-1.1.1+1.21.4.jar'
+name = 'Particular ✨'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/RH15lm72/particular-1.1.1%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "ed53918643662cb8cc1c19df50c04ccb39820943f355dbc5cf82664b68184ac7176d4d9a2a595df3703354b73198922966476c9ecd4e740b558c1f1b8cb409cc"
+hash = 'ed53918643662cb8cc1c19df50c04ccb39820943f355dbc5cf82664b68184ac7176d4d9a2a595df3703354b73198922966476c9ecd4e740b558c1f1b8cb409cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B1CcCd9h/versions/RH15lm72/particular-1.1.1%2B1.21.4.jar'
 
-[update]
 [update.modrinth]
-mod-id = "B1CcCd9h"
-version = "RH15lm72"
+mod-id = 'B1CcCd9h'
+version = 'RH15lm72'

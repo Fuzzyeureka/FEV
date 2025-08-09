@@ -1,13 +1,16 @@
-name = "Held Item Info"
-filename = "held-item-info-1.7.1.jar"
-side = "client"
+filename = 'held-item-info-1.7.1.jar'
+name = 'Held Item Info'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/tEcWzCZz/versions/vuqr97iM/held-item-info-1.7.1.jar"
-hash-format = "sha512"
-hash = "a691531d9f20134bc1062706fa2e796de47b6ba7dfa5f635ff92e497d9148cb33347d1fc951228ab12591a3fe23b8adefc55ce58f5965518f70c70c829e6d55f"
+hash = 'a691531d9f20134bc1062706fa2e796de47b6ba7dfa5f635ff92e497d9148cb33347d1fc951228ab12591a3fe23b8adefc55ce58f5965518f70c70c829e6d55f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tEcWzCZz/versions/vuqr97iM/held-item-info-1.7.1.jar'
 
-[update]
 [update.modrinth]
-mod-id = "tEcWzCZz"
-version = "vuqr97iM"
+mod-id = 'tEcWzCZz'
+version = 'vuqr97iM'

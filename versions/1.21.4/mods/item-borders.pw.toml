@@ -1,13 +1,16 @@
-name = "Item Borders"
-filename = "ItemBorders-1.21.4-fabric-1.2.5.jar"
-side = "client"
+filename = 'ItemBorders-1.21.4-fabric-1.2.5.jar'
+name = 'Item Borders'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/kR1GUcQR/ItemBorders-1.21.4-fabric-1.2.5.jar"
-hash-format = "sha512"
-hash = "567c754f3c36abd53da718221b3f161d5cec151c44bc5efcbd0691878d77596ec274e58a3793c83cf1d4b379c4bcce0b9d9123fe83fe621761973a10ed376fc6"
+hash = '567c754f3c36abd53da718221b3f161d5cec151c44bc5efcbd0691878d77596ec274e58a3793c83cf1d4b379c4bcce0b9d9123fe83fe621761973a10ed376fc6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b1fMg6sH/versions/kR1GUcQR/ItemBorders-1.21.4-fabric-1.2.5.jar'
 
-[update]
 [update.modrinth]
-mod-id = "b1fMg6sH"
-version = "kR1GUcQR"
+mod-id = 'b1fMg6sH'
+version = 'kR1GUcQR'

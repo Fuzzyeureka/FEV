@@ -1,13 +1,16 @@
-name = "Client Sort"
-filename = "clientsort-fabric-2.0.0-beta.11+1.21.3.jar"
-side = "client"
+filename = 'clientsort-fabric-2.0.0-beta.11+1.21.3.jar'
+name = 'Client Sort'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-url = "https://cdn.modrinth.com/data/K0AkAin6/versions/lsft5K9x/clientsort-fabric-2.0.0-beta.11%2B1.21.3.jar"
-hash-format = "sha512"
-hash = "75e3899756530c1cefcc3b82e159f2bb45a7d06cd049b181b23ee52f87299c250cf6c7813c2a439911fbe9d3809c9722a6e43fdc1878bc9d43471ee6d51238f0"
+hash = '75e3899756530c1cefcc3b82e159f2bb45a7d06cd049b181b23ee52f87299c250cf6c7813c2a439911fbe9d3809c9722a6e43fdc1878bc9d43471ee6d51238f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K0AkAin6/versions/lsft5K9x/clientsort-fabric-2.0.0-beta.11%2B1.21.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "K0AkAin6"
-version = "lsft5K9x"
+mod-id = 'K0AkAin6'
+version = 'lsft5K9x'

@@ -1,13 +1,16 @@
-name = "Better Beds"
-filename = "betterbeds-fabric-1.4.1.jar"
-side = "client"
+filename = 'betterbeds-fabric-1.4.1.jar'
+name = 'Better Beds'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/Sv5GlUgP/betterbeds-fabric-1.4.1.jar"
-hash-format = "sha512"
-hash = "7aa36097f3b17dbe2fd508ff1b1e55c294257bb5e5e81a38cf27df234e82088c7ca09cba9e891da4793f6ebf7d567aea6ffc74565ad589d9bc7177a0315e13f1"
+hash = '7aa36097f3b17dbe2fd508ff1b1e55c294257bb5e5e81a38cf27df234e82088c7ca09cba9e891da4793f6ebf7d567aea6ffc74565ad589d9bc7177a0315e13f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kKwy3HU9/versions/Sv5GlUgP/betterbeds-fabric-1.4.1.jar'
 
-[update]
 [update.modrinth]
-mod-id = "kKwy3HU9"
-version = "Sv5GlUgP"
+mod-id = 'kKwy3HU9'
+version = 'Sv5GlUgP'

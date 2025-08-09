@@ -1,13 +1,16 @@
-name = "Easy Shulker Boxes"
-filename = "EasyShulkerBoxes-v21.4.2-1.21.4-Fabric.jar"
-side = "both"
+filename = 'EasyShulkerBoxes-v21.4.2-1.21.4-Fabric.jar'
+name = 'Easy Shulker Boxes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/gA5euN8S/versions/ABKlrsZL/EasyShulkerBoxes-v21.4.2-1.21.4-Fabric.jar"
-hash-format = "sha512"
-hash = "c44eccc5ec545db1fbb89cc728f95e3f69f495ffb09922d52eecf7f8cd00fc2926a0a24e82737155fc0e4722e4192f1b72b6597adf9f759e79b9ea1c552a4559"
+hash = 'c44eccc5ec545db1fbb89cc728f95e3f69f495ffb09922d52eecf7f8cd00fc2926a0a24e82737155fc0e4722e4192f1b72b6597adf9f759e79b9ea1c552a4559'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gA5euN8S/versions/ABKlrsZL/EasyShulkerBoxes-v21.4.2-1.21.4-Fabric.jar'
 
-[update]
 [update.modrinth]
-mod-id = "gA5euN8S"
-version = "ABKlrsZL"
+mod-id = 'gA5euN8S'
+version = 'ABKlrsZL'

@@ -1,0 +1,16 @@
+filename = 'async-fabric-0.1.7+alpha.6-1.21.4.jar'
+name = 'Async'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '163427ad525ccbc62df30b7a5ffec5e125f2d978023f251111ab26845a71b7119212e257efd759550236b567d32951fc0f7f98dd9b847cbe16e233067993421d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vEC2jm6I/versions/DsAklTML/async-fabric-0.1.7%2Balpha.6-1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'vEC2jm6I'
+version = 'DsAklTML'
