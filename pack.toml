@@ -1,13 +1,13 @@
 name = "Fuzzys-enhanced-vanilla"
 author = "Fuzzyeureka"
-version = "1.6.1"
+version = [ "1.6.1",]
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9a19065f1d244b67ee6dd453a4c78c338ba3eb71c8f9151bb547649a23e6bba3"
+hash = "268cb508c55d1c54faffeb95d3b1b74e6efa4419a499ba5be4df0652dac28424"
 
 [versions]
-fabric = "0.17.2"
+fabric = [ "0.17.2",]
 minecraft = "1.21.4"
