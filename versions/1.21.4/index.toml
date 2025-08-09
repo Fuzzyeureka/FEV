@@ -14,7 +14,7 @@ hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c619f5b826ba75a5e3a35f40efdd94f99687afb665eabe09592f57beb6a159b4"
+hash = "8477c7f130efe189fed5a485cc196baa45627ff2f7b60ded34c5e5ada5e3abda"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -88,12 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "39f86bae779ca10ff24cd6aa78a5ba79a1429d7e082f02386f8b3ed235f7c947"
+hash = "5584fdefb5fcff117b69023258ddfd3135d8ea900e609d48433af8e8a1ca9c69"
 metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "cf3b8765b3b65f51c894d3ab4d4a1a9276f140aa5e2e27ec796ca1f0715a6ae2"
+hash = "7214227e426d35bcf101e9514d28662648b702211ee249555c166aa3ce6fdccc"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ea4562ddd4bb97803ae4497961f9b7f1384a2be978964c3abf603a7783aaf942"
+hash = "4827a1de5d211db1bdb143eee64677e4d015e5beda72e0d90f66952a87ddc71c"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "33c2640ed4ab29fd4f1e9c3270f5b9dea5bc21e9b366eb4a0b197f4c70ab0848"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "dd4f8d6307644cc626b662494c026176142c6cda42d2649e090c61df7f70e3b3"
+hash = "7fc97a35d75872fc6b0596490bb1682b140281f2cd018f0e8262aad9f7619022"
 metafile = true
 
 [[files]]

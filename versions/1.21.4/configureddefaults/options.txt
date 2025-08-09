@@ -50,7 +50,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/qrafty\u0027s-capitalized-font.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/enchant icons 1.21.4 v1.3.zip","file/Simple Grass Flowers v1.9.5.zip","file/Fancy Crops v1.2.zip","file/FreshAnimations_v1.9.3.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/qrafty\u0027s-capitalized-font-3.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/enchant icons 1.21.4 v1.3.zip","file/Simple Grass Flowers v1.9.5.zip","file/Fancy Crops v1.2.zip","file/FreshAnimations_v1.9.3.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

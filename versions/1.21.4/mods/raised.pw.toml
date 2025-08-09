@@ -1,48 +1,13 @@
-filename = 'raised-fabric-1.21.4-5.0.0.jar'
-name = 'Raised'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [
-    '1.21.2',
-    '1.21.2 Pre-Release 1',
-    '1.21.2 Pre-Release 2',
-    '1.21.2 Pre-Release 3',
-    '1.21.2 Pre-Release 4',
-    '1.21.2 Pre-Release 5',
-    '1.21.2 rc1',
-    '1.21.2 rc2',
-    '1.21.3',
-    '1.21.4',
-    '1.21.4 Pre-Release 1',
-    '1.21.4 Pre-Release 2',
-    '1.21.4 Pre-Release 3',
-    '1.21.4 rc1',
-    '1.21.4 rc2',
-    '1.21.4 rc3',
-    '24w33a',
-    '24w34a',
-    '24w35a',
-    '24w36a',
-    '24w37a',
-    '24w38a',
-    '24w39a',
-    '24w40a',
-    '24w44a',
-    '24w45a',
-    '24w46a',
-    '25w02a',
-    '25w03a',
-    '25w04a',
-    '25w05a'
-]
-x-prismlauncher-release-type = 'release'
+name = "Raised"
+filename = "raised-fabric-1.21.4-5.0.1.jar"
+side = "client"
 
 [download]
-hash = 'b6c80462536f003c9016ca859a0e477f9cd29359e7c8e20b2ad741a6a77828dfcc632730fe5c84f814c67472b8d14bcf10f6363faabc82588cb66928e7b89bbe'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nCQRBEiR/versions/Ml75JpfF/raised-fabric-1.21.4-5.0.0.jar'
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/1NVtA7Gq/raised-fabric-1.21.4-5.0.1.jar"
+hash-format = "sha512"
+hash = "f43fc4aab62d49e9efa691294391980b12c7906603f9c6d2e62e9019f6ad631c8f059d25f80e0e82f09176cd85b96a3d25af7be8bea5294e5750562d3c7940da"
 
+[update]
 [update.modrinth]
-mod-id = 'nCQRBEiR'
-version = 'Ml75JpfF'
+mod-id = "nCQRBEiR"
+version = "1NVtA7Gq"
