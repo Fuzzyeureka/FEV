@@ -10,4 +10,3 @@ if not exist "versions/%version%" (
 
 pushd "versions/%version%"
 call "update mods.bat"
-pause
