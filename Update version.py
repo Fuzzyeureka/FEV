@@ -36,7 +36,7 @@ current_modpack_version = packtoml["version"]
 print(f"Current fabric version: {current_fabric_version}")
 new_fabric_version = input("Enter latest fabric version (leave blank for current version) > ") or current_fabric_version
 print(f"Current modpack version: {current_modpack_version}")
-new_modpack_version = input("Enter new modpack version (leave blank for current version) > ") or current_modpack_version
+new_modpack_version = input("Enter new modpack version > ")
 print(f"Current version: {existing_version}")
 new_version = input("Enter new version > Fuzzy's Enhanced Vanilla ")
 
