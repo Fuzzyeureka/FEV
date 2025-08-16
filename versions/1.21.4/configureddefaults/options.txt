@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:12
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -50,7 +50,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/qrafty\u0027s-capitalized-font-3.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/enchant icons 1.21.4 v1.3.zip","file/Simple Grass Flowers v1.9.5.zip","file/Fancy Crops v1.2.zip","file/FreshAnimations_v1.9.3.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/qrafty\u0027s-capitalized-font-3.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/enchant icons 1.21.4 v1.3.zip","file/Simple Grass Flowers v1.9.5.zip","file/Fancy Crops v1.2.zip","file/FreshAnimations_v1.9.3.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -125,10 +125,10 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
-key_key.clientsort.group.edit:key.keyboard.unknown
-key_key.clientsort.group.op.sort:key.mouse.middle
-key_key.clientsort.group.op.stackFill:key.keyboard.unknown
-key_key.clientsort.group.op.transfer:key.keyboard.unknown
+key_key.clientsort.edit:key.keyboard.unknown
+key_key.clientsort.op.sort:key.mouse.middle
+key_key.clientsort.op.stackFill:key.keyboard.unknown
+key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown
 key_key.fsit.sit:key.keyboard.right.control
@@ -149,8 +149,6 @@ key_key.lighty.toggle:key.keyboard.f10
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.musicnotification.open_screen:key.keyboard.m
 key_key.optigui.inspect:key.keyboard.f12
-key_panorama.keybinds.screenshot:key.keyboard.f4
-key_key.raised.options:key.keyboard.grave.accent
 key_key.skinshuffle.preset_1:key.keyboard.unknown
 key_key.skinshuffle.preset_2:key.keyboard.unknown
 key_key.skinshuffle.preset_3:key.keyboard.unknown
@@ -170,7 +168,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:0.15258215962441307
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

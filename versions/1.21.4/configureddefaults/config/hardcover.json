@@ -1,0 +1,11 @@
+{
+  "alternativeRecipeButton": false,
+  "bounce": true,
+  "centeredInventory": true,
+  "circularScrolling": false,
+  "darkMode": false,
+  "mouseWheelScrolling": true,
+  "recipeBook": true,
+  "ungroupRecipes": false,
+  "unlockAllRecipes": false
+}

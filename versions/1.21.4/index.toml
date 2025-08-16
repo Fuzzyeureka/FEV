@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "450a3e9db70d03e38372ba7126e3fab0882e219d9ca53efbee45ae42349e4151"
+
+[[files]]
 file = "configureddefaults/config/betterf3.json"
 hash = "676dc711ba060f1cb395bd33e4c5d9a0bdbb9c55136e938021e6bde2969e0e1c"
 
 [[files]]
+file = "configureddefaults/config/hardcover.json"
+hash = "e3b461b93e6d1d63351e56efbb84d44a4b1b3f10b1cca50f1e734f97ba844c8e"
+
+[[files]]
 file = "configureddefaults/config/isxander-main-menu-credits.json"
-hash = "a5b8ccc27611f0d1caaea0acc239444fcbc081311db48922d2733635e41d9fed"
+hash = "1cc2c580ba95f260a6699e9a5ebb926aa9660d0ecb3ed6f6836eb79aee7c6797"
 
 [[files]]
 file = "configureddefaults/config/rrls.toml"
@@ -14,16 +22,21 @@ hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8477c7f130efe189fed5a485cc196baa45627ff2f7b60ded34c5e5ada5e3abda"
+hash = "9d8f1b4a66410f51d31c4cb391a18d4b5812d832f1e6c2d4296fc6bdbb69dd2a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4e42d63cac80a0ea77cd8b20e42e97ef92631400abbe9e039eb1c459ed2eb8d9"
+hash = "9bd6ba58d937a371fc6bb73947e19c75020af78fc16a4a56683e5f289075bb29"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "89716261bedbcbb222ce0918f1ce4223fcd6a62725c7df71a0ab0995ec4da171"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
@@ -44,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "fcc69980ec2fe8b9d6bc23d450636f1cfbfc10d228e8f60c46a803495c436ccc"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "d4934e138f67d26ae4456c03e9b37ee863b5dc14b9d6e91211755bd85a414f3c"
 metafile = true
 
 [[files]]
@@ -89,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "5584fdefb5fcff117b69023258ddfd3135d8ea900e609d48433af8e8a1ca9c69"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9896c7d7de7401ce0908f50fb848df12a6ac1fcb286449e74b72a79d897cc6f8"
 metafile = true
 
 [[files]]
@@ -152,6 +165,11 @@ hash = "6f46eae314a779fa9343512866686a165bce1c3f9a1ecf0325678fd9560f94c2"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "b05b29c2dfb64e57df673fe7d8784d2ddfa9b6d98d7113122e6bf21292d53965"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9d62e11170006a5bb71c70e55983df971a8d90becbb25de0b013028e5074af20"
 metafile = true
@@ -193,12 +211,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "27aa51db2ab97e3a288020f8bb72ad3fe1a0dd4ddea7ba412ab09b091ba0a126"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "0c689e71c7c6e5893deaa96881213505439e23273cfbb216d918c416c0124458"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4add4eebee721586f96fe77671ebc1ebc46e97b734c76cbb8c591c171af67ebb"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
 metafile = true
 
 [[files]]
@@ -287,6 +315,11 @@ hash = "5c401d02b622d96b6dfaf36f76bfcfc7050ef6b0914d7219cc258f69d3cd9150"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "a5a1e0f68d1857926a6c1b4a8912153ea44b36dcb28006ee5005e0cbb6c20672"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "96608ed3e408d19207395ee7ff2780c3182eb47898696fb356ffdce737832c14"
 metafile = true
@@ -322,6 +355,11 @@ hash = "45f56a3dd8f2a14aeeac5bc74d90180d14ece1ab539c4a1863718afa9aad5ecf"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "7c205a1c4b956f5bd4a90dcf4671763a7c96afe1cef244c90861745aa45e904d"
 metafile = true
@@ -352,11 +390,6 @@ hash = "d6716998b623fcd73961c7478315dfa80fc426cf54e50158c823d416f2da28ee"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "0bf44a00d71eb7c3b7f20aadb7daefa010085eb478efbded9c24e1cf6cf47be9"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "93e9e0c2cb339fb8e4aba4bd9b9b5e179703a853fa462ce8072030358a17fcf0"
 metafile = true
@@ -369,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0f8516d664e17113ad3502dae7ca33d2a9d29f3fe8d6ccb32464411f7f53e97c"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "7fc97a35d75872fc6b0596490bb1682b140281f2cd018f0e8262aad9f7619022"
 metafile = true
 
 [[files]]
@@ -452,16 +480,6 @@ hash = "5e318c398cc87e0c25e3c100bc44402311ef9514e3f5e1295a7438417ad7a442"
 metafile = true
 
 [[files]]
-file = "mods/ukulib.pw.toml"
-hash = "2b9eec849370c32461cfff4e867fc88b71eefb30c26680fd0f463c8421201f8f"
-metafile = true
-
-[[files]]
-file = "mods/ukus-armor-hud.pw.toml"
-hash = "f3e7ad55ac7051ae5371b58f7c17976ddfb6e64b42e5b56cd8fc2d7f4f9dd3bc"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "f68200504985e32326f8080e77f3eaa571cf004a9996e704291367a37e84fcb4"
 metafile = true
@@ -489,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "5e429b260bc1a3350815010e84809e989446e4d35d85cc261d7d853ab8a6a25d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "c95de2fa145b9a3f173fde463515b6b2d38e0ed4f5c853b1a68c4f2ca3bad208"
 metafile = true
 
 [[files]]

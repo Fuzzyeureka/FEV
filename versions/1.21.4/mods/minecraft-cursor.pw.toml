@@ -1,0 +1,13 @@
+name = "Minecraft Cursor"
+filename = "minecraft-cursor-fabric-3.9.2+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/Bisaqmvz/minecraft-cursor-fabric-3.9.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "d0d8771ddc938b34cc93373c9c7df46a58023e5e0f3cbeda41ac730d3c793aae7b982b9c4e1c468218b229580524dad7592c647192a45bd021fcaa3280d08269"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "Bisaqmvz"
