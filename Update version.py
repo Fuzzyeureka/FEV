@@ -7,8 +7,8 @@ from pathlib import Path
 
 version = input("Input version you'd like to update > ")
 
-version_path = Path.home() / f"Desktop/FEV/versions/{version}"
-title_screen_path = version_path / "configureddefaults/config/isxander-main-menu-credits.json"
+version_path = Path.home() / f"Desktop/Modpack/FEV/versions/{version}"
+title_screen_path = version_path / "config/isxander-main-menu-credits.json"
 packtoml_path = version_path / "pack.toml"
 
 def load_toml(path: Path) -> dict:

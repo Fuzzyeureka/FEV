@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8fffa90e0b298059d4e7b409c3e742c1bde51cc8101270946b44ba0e3e133962"
+
+[[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
 hash = "450a3e9db70d03e38372ba7126e3fab0882e219d9ca53efbee45ae42349e4151"
 
@@ -13,16 +17,12 @@ file = "configureddefaults/config/hardcover.json"
 hash = "e3b461b93e6d1d63351e56efbb84d44a4b1b3f10b1cca50f1e734f97ba844c8e"
 
 [[files]]
-file = "configureddefaults/config/isxander-main-menu-credits.json"
-hash = "1cc2c580ba95f260a6699e9a5ebb926aa9660d0ecb3ed6f6836eb79aee7c6797"
-
-[[files]]
 file = "configureddefaults/config/rrls.toml"
 hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "9d8f1b4a66410f51d31c4cb391a18d4b5812d832f1e6c2d4296fc6bdbb69dd2a"
+hash = "ada2a3fcdbd49167f9bc5123820e9abb93efb1a188930ba59f773d64968c4c38"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4827a1de5d211db1bdb143eee64677e4d015e5beda72e0d90f66952a87ddc71c"
+hash = "c12db845354270c0d06e6dfa3670fa60025c27b044abc39abd2b93eed24e2d01"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "145443af878564465b5e865c371974d88555358d25ed6cded7735763d0815ecf"
+hash = "4b3b0e50c1eebdecc77103f161f74a7b000bc3b9a1fa46a07155198890545b4a"
 metafile = true
 
 [[files]]

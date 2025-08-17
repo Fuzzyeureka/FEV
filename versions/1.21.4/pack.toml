@@ -1,12 +1,12 @@
 name = "Fuzzys-enhanced-vanilla"
 author = "Fuzzyeureka"
-version = "7.0"
+version = "7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c112a2a44afe02ec18055a4a0f144ee65113598775047cc44ea7b80795342968"
+hash = "0c962d8f14e80e4835a00c9401119c9528072918b3ccca60dd9e3a8c9906aa0c"
 
 [versions]
 fabric = "0.17.2"
