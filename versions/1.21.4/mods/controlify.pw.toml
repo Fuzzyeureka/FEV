@@ -1,13 +1,13 @@
 name = "Controlify (Controller support)"
-filename = "controlify-2.4.0+1.21.4-fabric.jar"
+filename = "controlify-2.3.0+1.21.4-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/r1OgK0HT/controlify-2.4.0%2B1.21.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/9cgp23S3/controlify-2.3.0%2B1.21.4-fabric.jar"
 hash-format = "sha512"
-hash = "a6d4db37a49c411bf3ca283a46272b4381ecac903a91d178ca6ecb5c764c572681f6cbf4a2e0d504474a39507f83b66e5c29a073b9640737b88e18fe5f87e9ca"
+hash = "189b44dd59ba704fae8c1774894c91442b4e57f56c5fd44e774422b568b26d33767dea96d0b99a7747f8b4c0d3c190f88ed10f94a04898af5c22935d3811f8b5"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "r1OgK0HT"
+version = "9cgp23S3"
