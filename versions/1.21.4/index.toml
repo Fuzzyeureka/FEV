@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8fffa90e0b298059d4e7b409c3e742c1bde51cc8101270946b44ba0e3e133962"
+hash = "59cc265202d6abf60a6eb74066c2397c7f856309915e656ffc05692633473fbf"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -22,7 +22,7 @@ hash = "1c2106c516701c9d10ba6311c92096d73d7b2ce6bdf410fc5a008c3faa7e6c89"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "ada2a3fcdbd49167f9bc5123820e9abb93efb1a188930ba59f773d64968c4c38"
+hash = "b9602d5aba9bfb675aff263eb02ccddf84d47c35b623204f372c3dbe03de62dc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
