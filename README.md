@@ -1,3 +1,5 @@
+# This repository is now archived because using packwiz is too much work and i'm kinda lazy :P, i'll be using prismlauncher to update the pack from now on.
+
 <div align="center">
 
 # Fuzzy's Enhanced Vanilla
